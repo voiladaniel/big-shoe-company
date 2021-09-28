@@ -13,4 +13,15 @@ Upload custom orders with XML files for Big Shoe Company
 3. In another command window, go into BigShoeCompany\src\Big.Shoe.Company and type `dotnet run --launch-profile dev-test`
 
 ## Usage ##
-All the orders succesfully validated will be displayed with #ffa500
+
+• Validation is done with XSD file but also in C#.
+
+• Validation against XSD file will have box message with background: ![#ff4a4a](https://via.placeholder.com/15/ff4a4a/000000?text=+) 
+
+• All the orders succesfully validated will be displayed with background: ![#57bf81](https://via.placeholder.com/15/57bf81/000000?text=+)
+
+• All the orders unsuccesfully validated will be displayed with background: ![#ff4a4a](https://via.placeholder.com/15/ff4a4a/000000?text=+) 
+
+• Validated orders will have the Print Option available
+
+• Orders with validation against XSD file but with date not in the next 10 future days will have also the Print Option available.
