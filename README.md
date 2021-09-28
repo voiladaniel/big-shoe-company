@@ -16,7 +16,7 @@ Tested on Windows 10 OS, Google Chrome Version 93.0.4577.82
 
 ## Usage ##
 
-• Drag 'n' drop the XML file or press the box select the file.
+• Drag 'n' drop the XML file or press the box select the file. Only XML files accepted!
 
 • Validation is done with XSD 1.0 but also additional logic in C#.
 
