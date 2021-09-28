@@ -1,0 +1,30 @@
+<stylecopresultscache>
+  <version>12</version>
+  <project key="1218513981">
+    <configuration>
+    </configuration>
+  </project>
+  <sourcecode name="AppSettingsPoco.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2021/09/28 11:09:25.685</styleCop>
+      <settingsFile>2021/09/28 11:09:25.648</settingsFile>
+      <sourceFile>2021/09/28 12:02:17.117</sourceFile>
+      <parser>2021/09/28 11:09:25.685</parser>
+      <StyleCop.CSharp.DocumentationRules>2021/09/28 11:09:25.685</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1189477464</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2021/09/28 11:09:25.685</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2021/09/28 11:09:25.685</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2021/09/28 11:09:25.685</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2021/09/28 11:09:25.685</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2021/09/28 11:09:25.685</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2021/09/28 11:09:25.685</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>

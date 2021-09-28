@@ -1,0 +1,11 @@
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Data\bin\Debug\netstandard2.0\Big.Shoe.Company.Data.deps.json
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Data\bin\Debug\netstandard2.0\Big.Shoe.Company.Data.dll
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Data\bin\Debug\netstandard2.0\Big.Shoe.Company.Data.pdb
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Data\bin\Debug\netstandard2.0\Big.Shoe.Company.Core.dll
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Data\bin\Debug\netstandard2.0\Big.Shoe.Company.Core.pdb
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Data\obj\Debug\netstandard2.0\Big.Shoe.Company.Data.csprojAssemblyReference.cache
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Data\obj\Debug\netstandard2.0\Big.Shoe.Company.Data.AssemblyInfoInputs.cache
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Data\obj\Debug\netstandard2.0\Big.Shoe.Company.Data.AssemblyInfo.cs
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Data\obj\Debug\netstandard2.0\Big.Shoe.Company.Data.csproj.CopyComplete
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Data\obj\Debug\netstandard2.0\Big.Shoe.Company.Data.dll
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Data\obj\Debug\netstandard2.0\Big.Shoe.Company.Data.pdb

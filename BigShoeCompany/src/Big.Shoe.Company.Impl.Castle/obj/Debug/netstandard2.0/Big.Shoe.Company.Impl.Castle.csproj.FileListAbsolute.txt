@@ -1,0 +1,15 @@
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\bin\Debug\netstandard2.0\Big.Shoe.Company.Impl.Castle.deps.json
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\bin\Debug\netstandard2.0\Big.Shoe.Company.Impl.Castle.dll
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\bin\Debug\netstandard2.0\Big.Shoe.Company.Impl.Castle.pdb
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\bin\Debug\netstandard2.0\Big.Shoe.Company.Core.dll
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\bin\Debug\netstandard2.0\Big.Shoe.Company.Core.pdb
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\obj\Debug\netstandard2.0\Big.Shoe.Company.Impl.Castle.csprojAssemblyReference.cache
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\obj\Debug\netstandard2.0\Big.Shoe.Company.Impl.Castle.AssemblyInfoInputs.cache
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\obj\Debug\netstandard2.0\Big.Shoe.Company.Impl.Castle.AssemblyInfo.cs
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\obj\Debug\netstandard2.0\Big.Shoe.Company.Impl.Castle.csproj.CopyComplete
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\obj\Debug\netstandard2.0\Big.Shoe.Company.Impl.Castle.dll
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\obj\Debug\netstandard2.0\Big.Shoe.Company.Impl.Castle.pdb
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\bin\Debug\netstandard2.0\Big.Shoe.Company.Data.dll
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\bin\Debug\netstandard2.0\Big.Shoe.Company.Data.pdb
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\bin\Debug\netstandard2.0\Big.Shoe.Company.BusinessLogic.dll
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.Impl.Castle\bin\Debug\netstandard2.0\Big.Shoe.Company.BusinessLogic.pdb

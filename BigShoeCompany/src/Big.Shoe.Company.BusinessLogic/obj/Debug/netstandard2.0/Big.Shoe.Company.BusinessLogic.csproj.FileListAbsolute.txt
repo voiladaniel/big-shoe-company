@@ -1,0 +1,11 @@
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.BusinessLogic\bin\Debug\netstandard2.0\Big.Shoe.Company.BusinessLogic.deps.json
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.BusinessLogic\bin\Debug\netstandard2.0\Big.Shoe.Company.BusinessLogic.dll
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.BusinessLogic\obj\Debug\netstandard2.0\Big.Shoe.Company.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.BusinessLogic\obj\Debug\netstandard2.0\Big.Shoe.Company.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.BusinessLogic\obj\Debug\netstandard2.0\Big.Shoe.Company.BusinessLogic.AssemblyInfo.cs
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.BusinessLogic\bin\Debug\netstandard2.0\Big.Shoe.Company.BusinessLogic.pdb
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.BusinessLogic\bin\Debug\netstandard2.0\Big.Shoe.Company.Core.dll
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.BusinessLogic\bin\Debug\netstandard2.0\Big.Shoe.Company.Core.pdb
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.BusinessLogic\obj\Debug\netstandard2.0\Big.Shoe.Company.BusinessLogic.csproj.CopyComplete
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.BusinessLogic\obj\Debug\netstandard2.0\Big.Shoe.Company.BusinessLogic.dll
+C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company.BusinessLogic\obj\Debug\netstandard2.0\Big.Shoe.Company.BusinessLogic.pdb

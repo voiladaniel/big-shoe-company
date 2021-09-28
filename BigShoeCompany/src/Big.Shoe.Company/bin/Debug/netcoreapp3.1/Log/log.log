@@ -1,0 +1,297 @@
+2021-09-28 11:40:22,780 [11] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 11:40:23,201 [11] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: testbun.xml, Error: Could not find file 'C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company\testbun.xml'.
+2021-09-28 11:40:45,111 [6] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 11:40:45,199 [6] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: testbun.xml, Error: Could not find file 'C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company\testbun.xml'.
+2021-09-28 11:40:59,781 [18] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 11:42:15,961 [18] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: testbun.xml, Error: Could not find file 'C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company\testbun.xml'.
+2021-09-28 11:42:17,900 [18] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 11:42:23,861 [18] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: testbun.xml, Error: Could not find file 'C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company\testbun.xml'.
+2021-09-28 11:42:25,835 [28] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 11:42:35,911 [28] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: testbun.xml, Error: Could not find file 'C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company\testbun.xml'.
+2021-09-28 11:42:38,040 [28] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 11:43:24,303 [5] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 11:43:34,825 [5] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: testbun.xml, Error: Could not find file 'C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company\testbun.xml'.
+2021-09-28 11:43:36,724 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 11:44:06,652 [4] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: testbun.xml, Error: Could not find file 'C:\Users\daniel.voila\source\repos\BigShoeCompany\src\Big.Shoe.Company\testbun.xml'.
+2021-09-28 11:46:30,456 [10] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 11:46:32,812 [10] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:46:32,813 [10] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:46:32,813 [10] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 11:46:39,987 [12] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 11:46:39,992 [12] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:46:39,992 [12] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:46:39,993 [12] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 11:46:49,436 [15] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test1.xml
+2021-09-28 11:46:49,550 [15] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 11:46:51,300 [11] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test1.xml
+2021-09-28 11:46:51,405 [11] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 11:46:55,322 [10] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test.xml
+2021-09-28 11:46:55,340 [10] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:46:55,340 [10] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:46:55,341 [10] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test.xml
+2021-09-28 11:47:00,454 [10] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test - Copy.xml
+2021-09-28 11:47:00,461 [10] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:47:00,461 [10] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:47:00,462 [10] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test - Copy.xml
+2021-09-28 11:47:01,496 [10] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test - Copy.xml
+2021-09-28 11:47:01,507 [10] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:47:01,508 [10] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:47:01,509 [10] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test - Copy.xml
+2021-09-28 11:47:02,142 [15] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test - Copy.xml
+2021-09-28 11:47:02,151 [15] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:47:02,153 [15] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:47:02,154 [15] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test - Copy.xml
+2021-09-28 11:47:02,610 [15] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test - Copy.xml
+2021-09-28 11:47:02,615 [15] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:47:02,615 [15] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:47:02,616 [15] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test - Copy.xml
+2021-09-28 11:47:02,995 [13] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test - Copy.xml
+2021-09-28 11:47:03,005 [13] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:47:03,005 [13] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:47:03,006 [13] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test - Copy.xml
+2021-09-28 11:47:06,100 [10] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test.xml
+2021-09-28 11:47:06,107 [10] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:47:06,108 [10] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 11:47:06,108 [10] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test.xml
+2021-09-28 11:47:09,720 [12] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test1.xml
+2021-09-28 11:47:09,793 [12] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 12:06:47,548 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 12:06:47,602 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 12:06:47,723 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:06:47,724 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:06:47,724 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 12:06:47,724 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 12:06:52,198 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test1.xml
+2021-09-28 12:06:52,199 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test1.xml
+2021-09-28 12:06:52,278 [4] ERROR Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Processi XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 12:06:52,343 [4] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 12:06:57,345 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test.xml
+2021-09-28 12:06:57,346 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test.xml
+2021-09-28 12:06:57,363 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:06:57,364 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:06:57,364 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: test.xml
+2021-09-28 12:06:57,365 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test.xml
+2021-09-28 12:07:02,760 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test - Copy.xml
+2021-09-28 12:07:02,761 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test - Copy.xml
+2021-09-28 12:07:02,774 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:07:02,775 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:07:02,775 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: test - Copy.xml
+2021-09-28 12:07:02,775 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test - Copy.xml
+2021-09-28 12:27:39,669 [13] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun - Copy.xml
+2021-09-28 12:27:39,671 [13] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun - Copy.xml
+2021-09-28 12:27:39,686 [13] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:27:39,687 [13] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:27:39,688 [13] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun - Copy.xml
+2021-09-28 12:27:39,689 [13] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun - Copy.xml
+2021-09-28 12:28:41,329 [18] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun - Copy.xml
+2021-09-28 12:28:41,330 [18] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun - Copy.xml
+2021-09-28 12:28:41,336 [18] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:28:41,337 [18] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:28:41,337 [18] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun - Copy.xml
+2021-09-28 12:28:41,337 [18] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun - Copy.xml
+2021-09-28 12:32:56,506 [22] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun - Copy.xml
+2021-09-28 12:32:56,507 [22] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun - Copy.xml
+2021-09-28 12:32:56,521 [22] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:32:56,521 [22] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:32:56,522 [22] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun - Copy.xml
+2021-09-28 12:32:56,522 [22] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun - Copy.xml
+2021-09-28 12:33:02,771 [24] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 12:33:02,771 [24] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 12:33:02,780 [24] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:33:02,780 [24] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:33:02,781 [24] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 12:33:02,781 [24] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 12:41:43,897 [25] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 12:41:43,898 [25] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 12:41:43,923 [25] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:41:43,924 [25] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:41:43,924 [25] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 12:41:43,924 [25] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 12:43:17,806 [31] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 12:43:17,806 [31] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 12:43:17,819 [31] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:43:17,819 [31] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:43:17,819 [31] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 12:43:17,820 [31] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 12:43:46,182 [32] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 12:43:46,183 [32] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 12:43:46,187 [32] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:43:46,187 [32] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:43:46,187 [32] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 12:43:46,187 [32] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 12:44:56,155 [38] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 12:44:56,156 [38] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 12:44:56,167 [38] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:44:56,167 [38] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:44:56,167 [38] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 12:44:56,168 [38] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 12:45:53,061 [39] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 12:45:53,062 [39] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 12:45:53,066 [39] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:45:53,066 [39] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:45:53,066 [39] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 12:45:53,066 [39] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 12:46:23,823 [43] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 12:46:23,824 [43] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 12:46:23,836 [43] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:46:23,836 [43] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:46:23,837 [43] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 12:46:23,837 [43] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 12:46:29,223 [5] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 12:46:29,224 [5] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 12:46:29,228 [5] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:46:29,228 [5] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:46:29,229 [5] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 12:46:29,229 [5] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 12:46:52,704 [47] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test1.xml
+2021-09-28 12:46:52,704 [47] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test1.xml
+2021-09-28 12:46:52,788 [47] ERROR Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Processi XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 12:46:52,863 [47] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 12:47:43,360 [52] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test1.xml
+2021-09-28 12:47:43,360 [52] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test1.xml
+2021-09-28 12:47:43,413 [52] ERROR Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Processi XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 12:47:43,486 [52] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 12:47:52,478 [46] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test.xml
+2021-09-28 12:47:52,479 [46] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test.xml
+2021-09-28 12:47:52,494 [46] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:47:52,494 [46] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:47:52,494 [46] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: test.xml
+2021-09-28 12:47:52,495 [46] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test.xml
+2021-09-28 12:48:24,726 [54] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test.xml
+2021-09-28 12:48:24,727 [54] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test.xml
+2021-09-28 12:48:24,740 [54] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:48:24,741 [54] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:48:24,741 [54] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: test.xml
+2021-09-28 12:48:24,742 [54] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test.xml
+2021-09-28 12:48:26,155 [57] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test.xml
+2021-09-28 12:48:26,156 [57] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test.xml
+2021-09-28 12:48:26,160 [57] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:48:26,161 [57] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:48:26,161 [57] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: test.xml
+2021-09-28 12:48:26,161 [57] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test.xml
+2021-09-28 12:48:49,479 [60] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test.xml
+2021-09-28 12:48:49,480 [60] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test.xml
+2021-09-28 12:48:49,489 [60] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:48:49,489 [60] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 12:48:49,490 [60] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: test.xml
+2021-09-28 12:48:49,490 [60] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test.xml
+2021-09-28 13:13:08,433 [7] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 13:13:08,479 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 13:13:08,567 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:13:08,567 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:13:08,567 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 13:13:08,568 [7] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 13:13:14,555 [13] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun - Copy.xml
+2021-09-28 13:13:14,556 [13] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun - Copy.xml
+2021-09-28 13:13:14,568 [13] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:13:14,569 [13] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:13:14,569 [13] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun - Copy.xml
+2021-09-28 13:13:14,569 [13] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun - Copy.xml
+2021-09-28 13:13:20,424 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test.xml
+2021-09-28 13:13:20,425 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test.xml
+2021-09-28 13:13:20,443 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:13:20,444 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:13:20,444 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: test.xml
+2021-09-28 13:13:20,445 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test.xml
+2021-09-28 13:13:25,580 [11] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test1.xml
+2021-09-28 13:13:25,581 [11] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test1.xml
+2021-09-28 13:13:25,653 [11] ERROR Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Processi XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 13:13:25,714 [11] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 13:13:27,099 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test1.xml
+2021-09-28 13:13:27,099 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test1.xml
+2021-09-28 13:13:27,133 [4] ERROR Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Processi XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 13:13:27,195 [4] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 13:13:31,517 [12] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test1.xml
+2021-09-28 13:13:31,518 [12] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test1.xml
+2021-09-28 13:13:31,553 [12] ERROR Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Processi XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 13:13:31,610 [12] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 13:26:29,048 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 13:26:29,092 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 13:26:29,203 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:26:29,203 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:26:29,203 [4] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 13:26:29,204 [4] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 13:28:51,724 [20] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 13:28:51,745 [20] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 13:28:51,786 [20] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:28:51,787 [20] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:28:51,787 [20] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 13:28:51,787 [20] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 13:28:53,882 [12] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 13:28:53,883 [12] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 13:28:53,888 [12] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:28:53,888 [12] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:28:53,888 [12] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 13:28:53,889 [12] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 13:28:58,771 [20] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun - Copy.xml
+2021-09-28 13:28:58,773 [20] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun - Copy.xml
+2021-09-28 13:28:58,786 [20] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:28:58,787 [20] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:28:58,788 [20] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun - Copy.xml
+2021-09-28 13:28:58,789 [20] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun - Copy.xml
+2021-09-28 13:29:02,166 [17] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test1.xml
+2021-09-28 13:29:02,167 [17] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test1.xml
+2021-09-28 13:29:02,176 [17] ERROR Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Processi XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 13:29:02,177 [17] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 13:29:41,656 [6] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test1.xml
+2021-09-28 13:29:41,673 [6] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test1.xml
+2021-09-28 13:29:41,689 [6] ERROR Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Processi XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 13:29:41,690 [6] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 13:32:29,726 [7] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 13:32:29,760 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 13:32:29,818 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:32:29,819 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:32:29,819 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 13:32:29,819 [7] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 13:51:47,159 [7] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 13:51:47,187 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 13:51:47,260 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:51:47,260 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:51:47,261 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 13:51:47,261 [7] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 13:57:23,107 [7] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 13:57:23,157 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 13:57:23,300 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:57:23,302 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:57:23,302 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 13:57:23,303 [7] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 13:57:28,337 [12] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test1.xml
+2021-09-28 13:57:28,338 [12] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test1.xml
+2021-09-28 13:57:28,370 [12] ERROR Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Processi XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 13:57:28,372 [12] ERROR Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file NOT succesfull: test1.xml, Error: The 'DateRequired' attribute is invalid - The value '' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:date' - The string '' is not a valid Date value.
+2021-09-28 13:57:34,472 [17] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test.xml
+2021-09-28 13:57:34,473 [17] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test.xml
+2021-09-28 13:57:34,490 [17] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:57:34,490 [17] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:57:34,491 [17] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: test.xml
+2021-09-28 13:57:34,491 [17] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test.xml
+2021-09-28 13:58:06,194 [16] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test.xml
+2021-09-28 13:58:06,195 [16] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test.xml
+2021-09-28 13:58:06,199 [16] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:58:06,199 [16] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:58:06,199 [16] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: test.xml
+2021-09-28 13:58:06,199 [16] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test.xml
+2021-09-28 13:58:19,058 [19] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test - Copy.xml
+2021-09-28 13:58:19,059 [19] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test - Copy.xml
+2021-09-28 13:58:19,066 [19] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:58:19,067 [19] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 13:58:19,067 [19] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: test - Copy.xml
+2021-09-28 13:58:19,068 [19] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test - Copy.xml
+2021-09-28 14:09:41,068 [7] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 14:09:41,096 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 14:09:41,195 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 14:09:41,195 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 14:09:41,196 [7] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 14:09:41,196 [7] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml
+2021-09-28 14:10:41,921 [14] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: test - Copy.xml
+2021-09-28 14:10:41,922 [14] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: test - Copy.xml
+2021-09-28 14:10:41,936 [14] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 14:10:41,936 [14] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 14:10:41,936 [14] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: test - Copy.xml
+2021-09-28 14:10:41,936 [14] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: test - Copy.xml
+2021-09-28 14:10:54,478 [14] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file started: testbun.xml
+2021-09-28 14:10:54,480 [14] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File started: testbun.xml
+2021-09-28 14:10:54,496 [14] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date started: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 14:10:54,497 [14] INFO  Big.Shoe.Company.BusinessLogic.Managers.ValidationManager (null) - ValidationManager - Validation for Orders date completed: System.Collections.Generic.List`1[Big.Shoe.Company.Core.Models.Order]
+2021-09-28 14:10:54,497 [14] INFO  Big.Shoe.Company.BusinessLogic.Managers.XmlManager (null) - XmlManager - Process XML File completed: testbun.xml
+2021-09-28 14:10:54,498 [14] INFO  Big.Shoe.Company.Controllers.XmlController (null) - XmlController - Processing XML file completed: testbun.xml

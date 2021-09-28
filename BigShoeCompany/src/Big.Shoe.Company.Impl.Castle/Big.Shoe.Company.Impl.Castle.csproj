@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.Facilities.AspNetCore" Version="5.1.1" />
+    <PackageReference Include="Castle.Windsor" Version="5.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Big.Shoe.Company.BusinessLogic\Big.Shoe.Company.BusinessLogic.csproj" />
+    <ProjectReference Include="..\Big.Shoe.Company.Core\Big.Shoe.Company.Core.csproj" />
+    <ProjectReference Include="..\Big.Shoe.Company.Data\Big.Shoe.Company.Data.csproj" />
+  </ItemGroup>
+
+</Project>
