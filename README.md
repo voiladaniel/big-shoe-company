@@ -14,7 +14,9 @@ Upload custom orders with XML files for Big Shoe Company
 
 ## Usage ##
 
-• Validation is done with XSD file but also in C#.
+• Drag 'n' drop the XML file or press the box select the file.
+
+• Validation is done with XSD 1.0 but also additional logic in C#.
 
 • Validation against XSD file will have box message with background: ![#ff4a4a](https://via.placeholder.com/15/ff4a4a/000000?text=+) 
 
