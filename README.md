@@ -2,6 +2,8 @@ Big Shoe Company
 ==============
 Upload custom orders with XML files for Big Shoe Company
 
+Tested on Windows 10 OS, Google Chrome Version 93.0.4577.82
+
 ## Requirements ##
 1. .NET Core API 3.1
 2. Node.js
